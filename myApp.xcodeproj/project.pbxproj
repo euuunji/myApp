@@ -20,7 +20,7 @@
 		CD5D4B21245C5F33005B91E6 /* FourLetter_TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD5D4B20245C5F33005B91E6 /* FourLetter_TestViewController.swift */; };
 		CD5D4B26245D38FE005B91E6 /* NanumBarunpenB.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CD5D4B24245D38FE005B91E6 /* NanumBarunpenB.ttf */; };
 		CD5D4B27245D38FE005B91E6 /* NanumBarunpenR.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CD5D4B25245D38FE005B91E6 /* NanumBarunpenR.ttf */; };
-		CD5D4B29245D4714005B91E6 /* king.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5D4B28245D4714005B91E6 /* king.png */; };
+		CDC501BC245ED28C006A2C1D /* king.png in Resources */ = {isa = PBXBuildFile; fileRef = CDC501BB245ED28C006A2C1D /* king.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,7 +39,7 @@
 		CD5D4B20245C5F33005B91E6 /* FourLetter_TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourLetter_TestViewController.swift; sourceTree = "<group>"; };
 		CD5D4B24245D38FE005B91E6 /* NanumBarunpenB.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = NanumBarunpenB.ttf; path = ../../../../../../Library/Fonts/NanumBarunpenB.ttf; sourceTree = "<group>"; };
 		CD5D4B25245D38FE005B91E6 /* NanumBarunpenR.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = NanumBarunpenR.ttf; path = ../../../../../../Library/Fonts/NanumBarunpenR.ttf; sourceTree = "<group>"; };
-		CD5D4B28245D4714005B91E6 /* king.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = king.png; path = ../../../../Downloads/king.png; sourceTree = "<group>"; };
+		CDC501BB245ED28C006A2C1D /* king.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = king.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,7 +72,7 @@
 		CD5D4B07245C2BF6005B91E6 /* myApp */ = {
 			isa = PBXGroup;
 			children = (
-				CD5D4B28245D4714005B91E6 /* king.png */,
+				CDC501BB245ED28C006A2C1D /* king.png */,
 				CD5D4B24245D38FE005B91E6 /* NanumBarunpenB.ttf */,
 				CD5D4B25245D38FE005B91E6 /* NanumBarunpenR.ttf */,
 				CD5D4B08245C2BF6005B91E6 /* AppDelegate.swift */,
@@ -151,7 +151,7 @@
 			files = (
 				CD5D4B15245C2BF9005B91E6 /* LaunchScreen.storyboard in Resources */,
 				CD5D4B12245C2BF9005B91E6 /* Assets.xcassets in Resources */,
-				CD5D4B29245D4714005B91E6 /* king.png in Resources */,
+				CDC501BC245ED28C006A2C1D /* king.png in Resources */,
 				CD5D4B26245D38FE005B91E6 /* NanumBarunpenB.ttf in Resources */,
 				CD5D4B27245D38FE005B91E6 /* NanumBarunpenR.ttf in Resources */,
 				CD5D4B10245C2BF6005B91E6 /* Main.storyboard in Resources */,
